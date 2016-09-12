@@ -83,6 +83,13 @@ a{
     background-repeat: no-repeat;
     padding-left: 144px;
 }
+.boton3{
+	background-color: #192951;
+	width: 220px;
+    height: 64px;
+    margin-top: 436px;
+    margin-left: 292px;
+}
 
 .fondo2{
 	background-image: url(../img/textura_2.jpg);
@@ -158,11 +165,4 @@ input, textarea{
 	color: white;
 }
 /*---------pie-------*/
-}
-.boton3{
-	background-color: #192951;
-	width: 220px;
-    height: 64px;
-    margin-top: 436px;
-    margin-left: 292px;
-}
+
