@@ -1,3 +1,4 @@
+/*-------nav------*/
 h1{
 	margin-left: 300px;
 }
@@ -6,7 +7,7 @@ nav a{
 	text-decoration: none;
 	text-align: center;
 }
-
+/* -------nav-------*/
 .img1{
 	background-image: url(../img/dance_1.jpg);
 	width: 100%;
@@ -35,11 +36,13 @@ p.parr.text-center{
     margin: 20px;
     margin-left: 158px;
 }
+/*------deco boton*/
 button:hover {
  background: rgba(0,0,0,0);
  color: #3a7999;
  box-shadow: inset 0 0 0 3px #3a7999;
 }
+/*-----deco boton------*/
 h3{
 	font-size: 20px;
 }
@@ -54,9 +57,11 @@ h3{
 	width: 191px;
     margin-left: 378px;
 }
+/*-----fondo-------*/
 .fondo1{
 	background-image: url(../img/textura_2.jpg);
 }
+/*------fondo-------*/
 .boton2{
 	background-color: #192951;
 	width: 205px;
@@ -102,6 +107,7 @@ a{
 	margin-top: 50px;
 	margin-left: 10px;
 }
+/*------fondo zapatos*/
 .shoes{
 	background-image: url(../img/shoes_1.jpg);
 	height: 490px;
@@ -110,6 +116,8 @@ a{
 	background-position: right; 
 	background-color: white;
 }
+/*------fondo zapato-----*/
+/*-------formulario-----------*/
 form{
 	width: 450px;
 	margin: 30px auto;
@@ -141,15 +149,15 @@ input, textarea{
 	border-radius: 7px;
 	border: none;
 }
+/*---------formulario-------------*/
+/*----pie-----*/
 .pie{
 	background-color: #192951;
 	width: 100%;
 	height: 60px;
 	color: white;
 }
-.container{
-	width: 960px;
-	margin:0 auto;
+/*---------pie-------*/
 }
 .boton3{
 	background-color: #192951;

@@ -1,1 +1,49 @@
-/* Inserta tu codigo aqui */
+.blog{
+	margin-left: 480px;
+}
+.blog1{
+	background-image: url(../img/blog1.jpg);
+	height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    padding: 19px 0px 73px 0px;
+}
+.blog2{
+	background-image: url(../img/profesor_5.jpg);
+	background-size: 304px 275px;
+    background-repeat: no-repeat;
+    height: 272px;
+}
+.blog3{
+	background-image: url(../img/instructor_1.jpg);
+	background-size: 304px 275px;
+    background-repeat: no-repeat;
+    height: 272px;
+}
+
+.franja{
+	background-color:rgba(88, 88, 88, 0.34);
+    height: 183px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-top: 105px;
+    padding: 0px 0px 92px 0px;
+}
+.desc{
+	padding-left: 300px;
+}
+.tit{
+	margin-left: 100px;
+}
+.boton{
+	background-color: #192951;
+    width: 200px;
+    height: 47px;
+    border-radius: 5%;
+    border: none;
+}
+.letboton{
+	color: white;
+	text-decoration: none;
+}

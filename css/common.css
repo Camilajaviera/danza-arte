@@ -1,1 +1,73 @@
-/* Inserta tu codigo que es común para todas las páginas aqui */
+/*-------nav------*/
+h1{
+	margin-left: 300px;
+}
+
+nav a{
+	text-decoration: none;
+	text-align: center;
+}
+/* -------nav-------*/
+/*------deco boton*/
+button:hover {
+ background: rgba(0,0,0,0);
+ color: #3a7999;
+ box-shadow: inset 0 0 0 3px #3a7999;
+}
+/*-----deco boton------*/
+/*-----fondo-------*/
+.fondo1{
+	background-image: url(../img/textura_2.jpg);
+}
+/*------fondo-------*/
+/*------fondo zapatos*/
+.shoes{
+	background-image: url(../img/shoes_1.jpg);
+	height: 490px;
+	background-size: 59%;
+	background-repeat: no-repeat;
+	background-position: right; 
+	background-color: white;
+}
+/*------fondo zapato-----*/
+/*-------formulario-----------*/
+form{
+	width: 450px;
+	margin: 30px auto;
+	padding: 10px 20px;
+	border-radius: 8px;
+	box-sizing: border-box;
+}
+h2{
+	color: #192951;
+	font-size: 30px;
+	margin-bottom: 40px;
+}
+textarea{
+	height: 100px;
+}
+
+input, textarea{
+	width: 100%;
+	margin-bottom: 20px;
+	padding: 7px;
+	box-sizing: border-box;
+	font-size: 17px;
+	border: 1px solid gray;
+}
+#boton{
+	background-color: #192951;
+	padding: 20px;
+	color: white;
+	border-radius: 7px;
+	border: none;
+}
+/*---------formulario-------------*/
+/*----pie-----*/
+.pie{
+	background-color: #192951;
+	width: 100%;
+	height: 60px;
+	color: white;
+}
+/*---------pie-------*/
